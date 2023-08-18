@@ -1,0 +1,17 @@
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\bin\Debug\Segundo Parcial programacion.exe.config
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\bin\Debug\Segundo Parcial programacion.exe
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\bin\Debug\Segundo Parcial programacion.pdb
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Proyecto DCU.csproj.AssemblyReference.cache
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Proyecto DCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Form1.resources
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Forms.FormAgregar.resources
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Forms.FormEliminar.resources
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Forms.FormModificar.resources
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Properties.Resources.resources
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Proyecto DCU.csproj.GenerateResource.cache
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Proyecto DCU.csproj.CoreCompileInputs.cache
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Proyecto DCU.csproj.CopyComplete
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo Parcial programacion.exe
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo Parcial programacion.pdb
+C:\Users\elmej\source\repos\Segundo Parcial programacion\Segundo Parcial programacion\obj\Debug\Segundo_Parcial_programacion.Forms.FormBuscar.resources
